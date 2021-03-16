@@ -1,9 +1,9 @@
 body {
     font-family: 'Titillium Web', sans-serif;
-    background-image: radial-gradient(ellipse at center, #338f4f, #5b09df);
+    background-image: radial-gradient(circle at center, #1d4e2c, black, black);
     background-attachment: fixed;
-    color: #7dd14d;
-    text-shadow: 0 0 3px #762abd;
+    color: #26b14f;
+    text-shadow: 0 0 3px black;
     margin: 0 3%;
 }
 
