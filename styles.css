@@ -1,0 +1,31 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-image: radial-gradient(ellipse at center, #338f4f, #5b09df);
+    background-attachment: fixed;
+    color: #7dd14d;
+    text-shadow: 0 0 3px #762abd;
+    margin: 0 3%;
+}
+
+table {
+    border-spacing: 20px 0;
+    margin: 0 -20px 20px;
+    caption-side: bottom;
+}
+
+caption {
+    width: 100%;
+    text-align: left;
+    font-size: 80%;
+    margin: 5px 0 0 20px;
+}
+
+a:link {
+    color: #e49842;
+    text-shadow: none;
+}
+
+a:visited {
+    color: #9c5b36;
+    text-shadow: none;
+}
